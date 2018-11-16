@@ -38,6 +38,7 @@
 * [Taro整合Dva示例](https://github.com/zuoge85/taro-dva)
 * [V2ex小程序（TypeScript）](https://github.com/NervJS/taro-v2ex)
 * [与微信小程序原生融合的示例](https://github.com/NervJS/taro-sample-weapp)
+* [taro结合zoro完整方案示例](https://github.com/FaureWu/ztaro)
 
 ## 开源项目
 
