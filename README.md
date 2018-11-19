@@ -11,7 +11,7 @@
 - [微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/)
 - [百度智能小程序官方文档](https://smartprogram.baidu.com/docs/introduction/register/index.html)
 - [支付宝小程序官方文档](https://docs.alipay.com/mini/developer/getting-started)
-- [头条/抖音小程序官方文档](https://developer.toutiao.com/docs/framework/)
+- [字节跳动小程序官方文档](https://microapp.bytedance.com/)
 
 ## 文章教程
 
