@@ -30,6 +30,10 @@
 * [使用Taro和Typescript进行小程序开发](https://zacksleo.github.io/2018/06/16/%E4%BD%BF%E7%94%A8Taro%E5%92%8CTypescript%E8%BF%9B%E8%A1%8C%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/)
 * [微信小程序及h5,基于taro，zoro最佳实践探索](https://www.jianshu.com/p/7c27dbbc080f)
 
+## 小程序开发奇技淫巧
+
+* [微信小程序 wx.request 对于 JSON 含 \u2028 处理异常](https://segmentfault.com/a/1190000015443614)
+
 ## 示例项目
 
 * Taro Redux 示例 [taro-redux-sample](https://github.com/NervJS/taro-redux-sample)
