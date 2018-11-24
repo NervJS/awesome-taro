@@ -46,6 +46,7 @@
 * [V2ex小程序（TypeScript）](https://github.com/NervJS/taro-v2ex)
 * [与微信小程序原生融合的示例](https://github.com/NervJS/taro-sample-weapp)
 * [taro结合zoro完整方案示例](https://github.com/FaureWu/ztaro)
+* [Taro-UI + Rematch 示例](https://github.com/qwIvan/taro-demo-todolist)
 
 ## 开源项目
 
