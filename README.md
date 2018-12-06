@@ -53,6 +53,8 @@
 
 * 💯[基于Taro + Dva构建的时装衣橱(电商实战项目)](https://github.com/EasyTuan/taro-msparis)
 * [Taro 掘金小册源码](https://github.com/o2team/taro-ebook-source)
+* [基于taro + dva开发的音乐播放器小程序](https://github.com/huangzhuangjia/taro-music)
 
 ## 第三方库和组件
 
+* [f2图表封装 兼容H5和微信小程序](https://github.com/xioxin/taro-f2)
