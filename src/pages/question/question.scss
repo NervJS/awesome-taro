@@ -1,0 +1,92 @@
+.answer-feed {
+    padding: 0;
+    font-size: 14px;
+    background: #F0F4F3;
+    color: #000;
+}
+.question-wrp{
+    border-radius: 3px;
+    box-shadow: 0 1px 2px #bebebe;
+}
+.question-item{
+    width: 710px;
+    padding: 40px 20px 10px;
+    background: #fff;
+
+    .que-tag{
+        .tag{
+            height: 28px;
+            padding: 15px 20px;
+            border-radius: 28px;
+            margin: 0 10px;
+            background: #EEF5F8;
+            color: #2186E0;
+            font-size: 28px;
+            vertical-align: middle;
+        }
+    }
+    .que-title{
+        padding: 40px 20px 30px;
+        font-size: 38px;
+    }
+    .que-content{
+        padding: 0 20px;
+        font-size: 26px;
+    }
+    .que-follow{
+        margin: 20px;
+        height: 68px;
+        view,div,span{
+            display: inline-block;
+            margin: 0 40px 0 0;
+        }
+        image,img{
+            width: 50px;
+            height: 50px;
+            margin: 0 10px 0 0;
+            vertical-align: middle;
+        }
+        .left{
+            float: left;
+            padding: 10px 0;
+            text,div,span{
+                color: #AFAFAF;
+                height: 50px;
+                vertical-align: middle;
+                padding: 18px 0;
+                font-size: 24px;
+            }
+        }
+        .right{
+            float: right;
+            padding: 20px 55px;
+            color: #ffffff;
+            background: #52C980;
+            border-radius: 3px;
+            font-size: 26px;
+            margin: 0;
+        }
+    }
+}
+.que-operate{
+    width: 750px;
+    border-top: solid 1px #ebebeb;
+    border-bottom: solid 1px #ebebeb;
+    color: #889091;
+    vertical-align: middle;
+    background: #ffffff;
+
+    .flex-item{
+        padding: 20px 0;
+        font-size: 26px;
+    }
+    .invite{
+        border-right: solid 2px #ebebeb;
+    }
+    image,img{
+        width: 50px;
+        height: 50px;
+        vertical-align: middle;
+        margin: 0 20px 0 0;
+    }
+}

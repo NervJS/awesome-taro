@@ -1,0 +1,32 @@
+.container{
+  height: 1500px;
+}
+.top-tab{
+  width: 750px;
+  height: 100px;
+  background: #298DE5;
+  color: #8CCEFD;
+  font-size: 28px;
+  line-height: 100px;
+  box-shadow: 0 2px 2px #bebebe;
+  margin: 0 0 8px 0;
+  z-index: 9999;
+
+  .active {
+    color: #ffffff;
+    border-bottom: solid 2px #ffffff;
+  }
+}
+
+.activity{
+  width: 750px;
+  height: 375px;
+}
+.activity image,.activity img{
+  width: 750px;
+  height: 400px;
+}
+.placehold{
+  font-size: 28px;
+  padding: 80px 0;
+}

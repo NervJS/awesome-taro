@@ -1,0 +1,146 @@
+
+.container {
+  min-height: 1200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  /*padding: 200px 0;*/
+  box-sizing: border-box;
+  width:100%;
+  background: #F0F4F3;
+  padding: 0;
+  font-size: 20px;
+  color: #000;
+
+  &.withtab{
+    margin: 105px 0 0 0;
+  }
+
+}
+.feed-item{
+    width: 690px;
+    padding: 30px 30px 20px;
+    margin: 7px 0 6px 0;
+    background: #ffffff;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    box-shadow: 0 2px 5px #eeeeee;
+
+    .answer-name {
+        padding-left:10px;
+        font-size: 24px;
+    }
+    .feed-content{
+      padding: 10px 0 0 0;
+      .question {
+        text,span {
+          font-size: 28px;
+          font-weight: 600px;
+          line-height: 40px;
+          text-space: 5px;
+        }
+      }
+      .answer-body{
+        padding: 10px 0 0 0;
+        font-size: 24px;
+        line-height: 28px;
+        color: #5b5b5b;
+      }
+
+      .answer-actions{
+        width: 690px;
+        padding: 10px 0  0;
+        color: #a0acac;
+
+        view,div,span {
+          display: inline-block;
+          vertical-align: text-bottom;
+          padding: 0 10px 0 0;
+          font-size: 24px;
+        }
+      }
+    }
+
+    .feed-source{
+      display: flex;
+      width: 100%;
+      height: 50px;
+
+      .feed-source-txt{
+        display: inline-block;
+        height: 45px;
+        line-height: 45px;
+        vertical-align: middle;
+        margin: 0 0 0 15px;
+        color: #a0acac;
+        font-size: 26px;
+      }
+      .flex1 {
+        flex:1;
+      }
+      .flex8 {
+        flex:8;
+      }
+      .item-more{
+        display: inline-block;
+        width: 40px;
+        height: 45px;
+        text-align: right;
+      }
+      .avatar{
+        position: relative;
+        display: inline-block;
+
+        image,img{
+          display: inline-block;
+          width: 45px;
+          height: 45px;
+          border-radius: 45px;
+          top: 10px;
+          vertical-align: middle;
+        }
+      }
+    }
+  }
+.flex-wrp{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.flex-tab{
+  flex-flow: row nowrap;
+  justify-content: space-around;
+  align-items: stretch;
+}
+.flex-item{
+  flex-grow: 1;
+  text-align: center;
+}
+.top-tab{
+  width: 750px;
+  height: 100px;
+  background: #298DE5;
+  color: #8CCEFD;
+  font-size: 28px;
+  line-height: 100px;
+  box-shadow: 0 2px 2px #bebebe;
+  margin: 0 0 8px 0;
+  position: fixed;
+  top: 0;
+  z-index: 9999;
+
+  &.active{
+    color: #ffffff;
+    border-bottom: solid 2px #ffffff;
+  }
+}
+.txcenter {
+  font-size: 28px;
+  padding: 20px;
+  text-align:center;
+}
+.taro-img {
+  width: auto!important;
+  height: auto!important;
+}

@@ -1,0 +1,71 @@
+.user {
+  width: 725px;
+  background: #ffffff;
+  padding: 30px 25px 30px 0;
+  margin: 15rpx 0 0 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #dcdcdc;
+  box-shadow: 0 2px 5px #eeeeee;
+
+  .userinfo-avatar{
+    flex: 1;
+    display: inline-block;
+    width: 100px!important;
+    height: 100px!important;
+    border-radius: 80px;
+  }
+  .user-info{
+    flex: 5;
+    text-align: left;
+
+    text,div,span{
+      display: block;
+    }
+    .userinfo-nickname{
+      padding: 8px 0 10px 0;
+      font-size: 30px;
+      color: #818A8F;
+    }
+    .edit{
+      font-size: 30px;
+      color: #bababa;
+      line-height: 34px;
+    }
+  }
+}
+.my{
+  margin: 15px 0 0 0;
+  border-top: solid 1px #ebebeb;
+  border-bottom: solid 2px #ebebeb;
+
+  .my-item{
+    display: flex;
+    width: 750px;
+    background: #ffffff;
+    padding: 0;
+
+    .myitem-icon{
+      flex: 1;
+      vertical-align: middle;
+      .myitem-img, image,img{
+        width: 40px;
+        height: 40px;
+        margin-left: 16px;
+        margin-right: 16px;
+      }
+    }
+    .myitem-name{
+      flex: 5;
+      text-align: left;
+      font-size: 34px;
+      color: #6d6d6d;
+      line-height: 60px;
+      padding: 30px 0;
+      border-bottom: solid 1px #ebebeb;
+    }
+
+    &:last-child .myitem-name{
+      border-bottom: none;
+    }
+  }
+}

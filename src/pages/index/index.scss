@@ -1,0 +1,47 @@
+.search{
+  width: 100%;
+  height: 70px;
+  padding: 12.5px 0 12.5px 15px;
+  background: #2A8CE5;
+  .search-left {
+    height: 65px;
+    flex: 8;
+    background: #4EA3E7;
+    text-align: left;
+
+    image,img {
+      display: inline-block;
+      width: 35px;
+      height: 35px;
+      padding: 15px 15px 15px 20px;
+    }
+    .flex1{
+      flex-grow: 1;
+      text-align: left;
+    }
+    .flex6{
+      flex-grow: 6;
+      text-align: left;
+    }
+    input {
+      display: inline-block;
+      height: 65px;
+      font-size: 26px;
+    }
+  }
+
+  .search-right {
+    flex: 1;
+    height: 65px;
+    & image,img {
+      width: 45px;
+      height: 45px;
+      padding: 10px;
+    }
+  }
+}
+
+.search-placeholder {
+  color: #8CCEFD;
+  line-height: 20px;
+}

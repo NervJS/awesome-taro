@@ -1,0 +1,80 @@
+.feed-item {
+  width: 690px;
+  padding: 30px 30px 20px;
+  margin: 7px 0 6px 0;
+  background: #ffffff;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  box-shadow: 0 2px 5px #eeeeee;
+
+  .feed-content {
+    padding: 10px 0 0 0;
+
+    .question {
+      text,span {
+        font-size: 28px;
+        font-weight: 600px;
+        line-height: 40px;
+      }
+    }
+    .answer-body{
+      padding: 10px 0 0 0;
+      font-size: 24px;
+      line-height: 28px;
+      color: #5b5b5b;
+    }
+    .answer-actions{
+      width: 690px;
+      padding: 10px 0  0;
+      color: #a0acac;
+
+      view,div,span {
+        display: inline-block;
+        vertical-align: text-bottom;
+        padding: 0 10px 0 0;
+        font-size: 24px;
+      }
+    }
+  }
+
+  .feed-source{
+    display: flex;
+    width: 100%;
+    height: 50px;
+
+    .feed-source-txt{
+      display: inline-block;
+      height: 45px;
+      line-height: 45px;
+      vertical-align: middle;
+      margin: 0 0 0 15px;
+      color: #a0acac;
+      font-size: 26px;
+    }
+    .flex1 {
+      flex:1;
+    }
+    .flex8 {
+      flex:8;
+    }
+    .item-more{
+      display: inline-block;
+      width: 40px;
+      height: 45px;
+      text-align: right;
+    }
+    .avatar{
+      position: relative;
+      display: inline-block;
+
+      &_img{
+        display: inline-block;
+        width: 45px;
+        height: 45px;
+        border-radius: 45px;
+        top: 10px;
+        vertical-align: middle;
+      }
+    }
+  }
+}
