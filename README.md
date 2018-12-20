@@ -48,6 +48,7 @@
 * [与微信小程序原生融合的示例](https://github.com/NervJS/taro-sample-weapp)
 * [taro结合zoro完整方案示例](https://github.com/FaureWu/ztaro)
 * [Taro-UI + Rematch 示例](https://github.com/qwIvan/taro-demo-todolist)
+* [Taro+dva+wxParse多端富文本解析示例](https://github.com/zcSkr/taro-dva-wxParse)
 
 ## 开源项目
 
