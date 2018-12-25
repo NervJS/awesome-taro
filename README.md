@@ -53,6 +53,7 @@
 ## 开源项目
 
 * 💯[基于Taro + Dva构建的时装衣橱(电商实战项目)](https://github.com/EasyTuan/taro-msparis)
+* 💯[基于Taro + Taro-ui + dva开发的公益App](https://github.com/hugetiny/quit-smoking)
 * [Taro 掘金小册源码](https://github.com/o2team/taro-ebook-source)
 * [基于taro + dva开发的音乐播放器小程序](https://github.com/huangzhuangjia/taro-music)
 
