@@ -29,6 +29,7 @@
 * [GitLab-CI微信小程序进行持续集成和持续部署](https://zacksleo.github.io/2018/04/08/GitLab-CI%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%E5%92%8C%E6%8C%81%E7%BB%AD%E9%83%A8%E7%BD%B2/)
 * [使用Taro和Typescript进行小程序开发](https://zacksleo.github.io/2018/06/16/%E4%BD%BF%E7%94%A8Taro%E5%92%8CTypescript%E8%BF%9B%E8%A1%8C%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/)
 * [微信小程序及h5,基于taro，zoro最佳实践探索](https://www.jianshu.com/p/7c27dbbc080f)
+* [手把手教你用Taro框架写一个图像处理类微信小程序](https://juejin.im/post/5c3c8c58f265da611a4813a9)
 
 ## 小程序开发奇技淫巧
 
