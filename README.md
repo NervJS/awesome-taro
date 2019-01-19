@@ -15,6 +15,7 @@
 
 ## 文章教程
 
+* [不敢阅读 npm 包源码？带你揭秘 taro init 背后的哲学](https://juejin.im/post/5c21f4e5f265da61117a54a0)
 * [从0到1构建适配不同端（微信小程序、H5、React-Native 等）的taro + dva应用](https://juejin.im/post/5bb1766d5188255c3272cdd0)
 * [【小程序taro最佳实践】http请求封装（方便使用，增加token，统一错误日志记录和上报）](https://segmentfault.com/a/1190000016533592)
 * [【小程序taro 最佳实践】异步action优雅实践(简化流程)](https://segmentfault.com/a/1190000016534001)
