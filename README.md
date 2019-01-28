@@ -60,6 +60,7 @@
 * 💯[基于Taro + Taro-ui + dva开发的公益App](https://github.com/hugetiny/quit-smoking)
 * [Taro 掘金小册源码](https://github.com/o2team/taro-ebook-source)
 * [基于taro + dva开发的音乐播放器小程序](https://github.com/huangzhuangjia/taro-music)
+* [Taro + Taro-UI GitHub小程序客户端Gitter源码](https://github.com/huangjianke/Gitter)
 
 ## 第三方库和组件
 
