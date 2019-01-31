@@ -32,9 +32,10 @@
 * [微信小程序及h5,基于taro，zoro最佳实践探索](https://www.jianshu.com/p/7c27dbbc080f)
 * [手把手教你用Taro框架写一个图像处理类微信小程序](https://juejin.im/post/5c3c8c58f265da611a4813a9)
 
-## 小程序开发奇技淫巧
+## 开发技巧
 
 * [微信小程序 wx.request 对于 JSON 含 \u2028 处理异常](https://segmentfault.com/a/1190000015443614)
+* [Taro 最佳实践](https://github.com/js-newbee/taro-best-practices)
 
 ## 示例项目
 
