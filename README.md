@@ -69,3 +69,4 @@
 
 * [f2图表封装 兼容H5和微信小程序](https://github.com/xioxin/taro-f2)
 * [echarts图表封装](https://github.com/WsmDyj/echarts-for-taro)
+* [taro-plugin-canvas - 基于Taro的小程序海报组件](https://github.com/chuyun/taro-plugin-canvas)
