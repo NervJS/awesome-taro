@@ -32,6 +32,7 @@
 * [微信小程序及h5,基于taro，zoro最佳实践探索](https://www.jianshu.com/p/7c27dbbc080f)
 * [手把手教你用Taro框架写一个图像处理类微信小程序](https://juejin.im/post/5c3c8c58f265da611a4813a9)
 * [Taro 多端开发的正确姿势：打造三端统一的网易严选（小程序、H5、React Native）](https://juejin.im/post/5c6a151f518825625e4ac830)
+* [Taro 与 Redux 结合使用教程](https://github.com/imageslr/taro-library#%E5%BC%95%E5%85%A5-redux)
 
 ## 开发技巧
 
@@ -55,6 +56,7 @@
 * [Taro+dva+wxParse多端富文本解析示例](https://github.com/zcSkr/taro-dva-wxParse)
 * [Taro+Taro-UI+es6 入门demo](https://github.com/hyyqcweb/taro-gank)
 * [知识付费小程序（TypeScript）](https://github.com/SmallRuralDog/yundocs)
+* [书店小程序： Taro + Redux + 本地 Mock Server 示例项目](https://github.com/imageslr/taro-library)
 
 ## 开源项目
 
