@@ -33,6 +33,7 @@
 * [手把手教你用Taro框架写一个图像处理类微信小程序](https://juejin.im/post/5c3c8c58f265da611a4813a9)
 * [Taro 多端开发的正确姿势：打造三端统一的网易严选（小程序、H5、React Native）](https://juejin.im/post/5c6a151f518825625e4ac830)
 * [Taro 与 Redux 结合使用教程](https://github.com/imageslr/taro-library#%E5%BC%95%E5%85%A5-redux)
+* [微信小程序开发之影分身术](https://juejin.im/post/5c788d28e51d4560a82be8d2)
 
 ## 开发技巧
 
