@@ -59,6 +59,7 @@
 * [知识付费小程序（TypeScript）](https://github.com/SmallRuralDog/yundocs)
 * [书店小程序： Taro + Redux + 本地 Mock Server 示例项目](https://github.com/imageslr/taro-library)
 * [Taro 示例项目(内置 计数器 与 异步请求): Taro + Dva + Typescript + Immutable](https://github.com/didilinkin/tarojs-ts-cli)
+* [记日常小程序 Taro-UI + Rematch + 云开发 + tcb-router](https://github.com/zhixiaoqiang/taroCloud)
 
 ## 开源项目
 
