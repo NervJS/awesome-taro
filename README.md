@@ -77,3 +77,4 @@
 * [taro-plugin-canvas - 基于Taro的小程序海报组件](https://github.com/chuyun/taro-plugin-canvas)
 * [taro-bdmark - 基于Taro的百度小程序md解析器](https://github.com/guozimo/taro-bdMark)
 * [Mounted - 一款基于 Taro 的小程序组件库](https://github.com/fjc0k/mounted)
+* [taro-axios - 在 Taro 中使用 axios](https://github.com/fjc0k/taro-axios)
