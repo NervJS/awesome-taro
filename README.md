@@ -50,7 +50,7 @@
 - Taro 实验性特性项目 [taro-todo](https://github.com/NervJS/taro-todo)
 - [Taro 脚手架（特性： 封装 api、redux 优雅集成、异常日志上报）](https://github.com/wsdo/taro-kit.git)
 - [仿知乎小程序](https://github.com/NervJS/taro-zhihu-sample)
-- [仿知乎小程序](https://github.com/MoonCheung/zhihu-applet)
+- [仿知乎小程序: Taro + Taro-UI + yapi API](https://github.com/MoonCheung/zhihu-applet)
 - [Taro 整合 Dva 示例](https://github.com/zuoge85/taro-dva)
 - [V2ex 小程序（TypeScript）](https://github.com/NervJS/taro-v2ex)
 - [与微信小程序原生融合的示例](https://github.com/NervJS/taro-sample-weapp)
