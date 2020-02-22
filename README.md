@@ -73,6 +73,7 @@
 * [Taro + Taro-UI GitHub小程序客户端Gitter源码](https://github.com/huangjianke/Gitter)
 * [基于Taro + Taro-ui + Typescript + redux开发的网易云音乐小程序](https://github.com/lsqy/taro-music)
 * [基于Taro + dva + Taro-ui + Typescript开发的网易云音乐小程序](https://github.com/abc-club/taro-music-ts)
+* [基于Taro2.0 + dva + Taro-ui + wemark开发的markdown文章博客小程序](https://github.com/hirCodd/JavaNorthMiniApp.git)
 ## 第三方库和组件
 
 * [f2图表封装 兼容H5和微信小程序](https://github.com/xioxin/taro-f2)
