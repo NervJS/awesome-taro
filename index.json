@@ -2,15 +2,9 @@
   "react": [{
     "name": "Taro 组件库示例",
     "value": "github:NervJS/taro-components-sample#next"
-  }, {
-    "name": "Taro 与原生小程序融合示例",
-    "value": "github:NervJS/taro-sample-weapp#next"
   }],
   "vue": [{
     "name": "Taro 组件库示例",
     "value": "github:NervJS/taro-components-sample#vue"
-  }, {
-    "name": "Taro 与原生小程序融合示例",
-    "value": "github:NervJS/taro-sample-weapp#vue"
   }]
 }
