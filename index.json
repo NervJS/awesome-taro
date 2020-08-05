@@ -1,0 +1,10 @@
+{
+  "react": [{
+    "name": "Taro 组件库示例",
+    "value": "github:NervJS/taro-components-sample#next"
+  }],
+  "vue": [{
+    "name": "Taro 组件库示例",
+    "value": "github:NervJS/taro-components-sample#vue"
+  }]
+}
