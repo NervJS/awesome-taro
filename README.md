@@ -77,6 +77,7 @@
 - [基于 Taro + dva + Taro-ui + Typescript 开发的网易云音乐小程序](https://github.com/abc-club/taro-music-ts)
 - [基于 Taro2.0 + dva + Taro-ui + wemark 开发的 markdown 文章博客小程序](https://github.com/hirCodd/JavaNorthMiniApp.git)
 - 💯[基于 Taro2.0 + dva + Taro-ui + immer 开发的电商小程序](https://github.com/jiechud/taro-mall)
+- 💯[基于 Taro2.0 + TypeScript + 云开发的地图同学录小程序](https://github.com/Mayandev/classmate-map)
 
 ## 第三方库和组件
 
