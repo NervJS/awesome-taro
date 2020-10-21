@@ -64,7 +64,7 @@
 - [V2ex 小程序（TypeScript）Vue 版](https://github.com/NervJS/taro-v2ex/tree/vue)
 - [与微信小程序原生融合的示例（React版）](https://github.com/NervJS/taro-sample-weapp/tree/next)
 - [与微信小程序原生融合的示例（Vue版）](https://github.com/NervJS/taro-sample-weapp/tree/vue)
-- [Taro 示例项目(内置 计数器 与 异步请求): Taro + Dva + Typescript + Immutable](https://github.com/didilinkin/tarojs-ts-cli)
+- [Taro 示例项目(DVA计数器 | 异步请求 | 腾讯地图): Taro+Dva+Typescript+Immer](https://github.com/didilinkin/tarojs-ts-cli)
 - 💯 [nice-router-taro 脚手架项目，DVA+数据驱动页面+数据驱动表单+数据驱动list](https://github.com/kala888/nice-router-taro)
 
 
