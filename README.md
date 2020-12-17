@@ -102,6 +102,7 @@
 - [Taro UI Vue3](https://b2nil.github.io/taro-ui-vue3/)
 - [Taro UI Vue](https://github.com/psaren/taro-ui-vue)
 - [基于 Taro + Taro-ui + Typescript + redux 开发的网易云音乐小程序](https://github.com/lsqy/taro-music/tree/feature_upgrade_taro3.0)
+- [微信小程序每日工作量(vue3 + TS + 云开发)](https://github.com/whyour/mini-work)
 
 
 ### Taro2
