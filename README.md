@@ -56,7 +56,7 @@
 ### Taro 3
 
 - [TodoMVC React 版](https://github.com/NervJS/TodoMVC/tree/react) (小程序 / H5)
-- [TodoMVC Vue 版](https://github.com/NervJS/TodoMVC/tree/react) (小程序 / H5)
+- [TodoMVC Vue 版](https://github.com/NervJS/TodoMVC/tree/vue) (小程序 / H5)
 - Taro 组件库示例 [taro-components-sample](https://github.com/NervJS/taro-components-sample) （默认是 React，Vue 请切到 Vue 分支）
 - [仿知乎小程序 React 版](https://github.com/NervJS/taro-zhihu-sample/tree/next)
 - [仿知乎小程序 Vue 版](https://github.com/NervJS/taro-zhihu-sample/tree/vue)
