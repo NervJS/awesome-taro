@@ -53,6 +53,10 @@
 
 ## 示例项目
 
+### Taro 3.2
+
+- [【58出品】Taro 跨平台 demo，支持 React Native，Weapp，H5](https://github.com/wuba/Taro-Mortgage-Calculator)
+
 ### Taro 3
 
 - [TodoMVC React 版](https://github.com/NervJS/TodoMVC/tree/react) (小程序 / H5)
