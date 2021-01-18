@@ -137,10 +137,10 @@
 
 ## 第三方库和组件
 
-- [f2 图表封装 兼容 H5 和微信小程序](https://github.com/xioxin/taro-f2)
-- [echarts 图表封装](https://github.com/WsmDyj/echarts-for-taro)
-- [taro-plugin-canvas - 基于 Taro 的小程序海报组件](https://github.com/chuyun/taro-plugin-canvas)
-- [taro-bdmark - 基于 Taro 的百度小程序 md 解析器](https://github.com/guozimo/taro-bdMark)
-- [Mounted - 一款基于 Taro 的小程序组件库](https://github.com/fjc0k/mounted)
-- [taro-axios - 在 Taro 中使用 axios](https://github.com/fjc0k/taro-axios)
-- 🔨[TaroCreator - 基于Taro UI的小程序可视化设计工具](https://github.com/mpfast/TaroCreator)
+- [f2 图表封装 兼容 H5 和微信小程序](https://github.com/xioxin/taro-f2)（Taro 1.x）
+- [echarts 图表封装](https://github.com/WsmDyj/echarts-for-taro)（Taro 1.x）
+- [taro-plugin-canvas - 基于 Taro 的小程序海报组件](https://github.com/chuyun/taro-plugin-canvas)(Taro 3.x)
+- [taro-bdmark - 基于 Taro 的百度小程序 md 解析器](https://github.com/guozimo/taro-bdMark)（Taro 1.x）
+- [Mounted - 一款基于 Taro 的小程序组件库](https://github.com/fjc0k/mounted)（Taro 1.x）
+- [taro-axios - 在 Taro 中使用 axios](https://github.com/fjc0k/taro-axios)（Taro 1.x；2.x;3.x）
+- 🔨[TaroCreator - 基于Taro UI的小程序可视化设计工具](https://github.com/mpfast/TaroCreator)（Taro 2.x）
