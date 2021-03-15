@@ -113,6 +113,7 @@
 - [基于 Taro + Taro-ui + Typescript + redux 开发的网易云音乐小程序](https://github.com/lsqy/taro-music/tree/feature_upgrade_taro3.0)
 - [微信小程序每日工作量(vue3 + TS + 云开发)](https://github.com/whyour/mini-work)
 - [TaroForm可视化表单编辑](https://github.com/ShaoGongBra/taro-form)
+- [自媒体UP主团购小程序NiceUp(React + TS + 云开发)](https://github.com/nasawz/niceup)
 
 
 ### Taro2
