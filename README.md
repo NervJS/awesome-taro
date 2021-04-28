@@ -147,3 +147,4 @@
 - [taro-axios - 在 Taro 中使用 axios](https://github.com/fjc0k/taro-axios)（Taro 1.x；2.x;3.x）
 - 🔨[TaroCreator - 基于Taro UI的小程序可视化设计工具](https://github.com/mpfast/TaroCreator)（Taro 2.x）
 - [taro-luck-draw - 🍧🍧🍧 基于 taro 的【大转盘 / 九宫格】抽奖插件](https://github.com/LuckDraw/taro-luck-draw)（Taro 3.x）
+- [tarojs-router-next - Taro 路由库/自动生成/任意传参/同步的路由方法调用/路由中间件](https://github.com/lblblong/tarojs-router-next)（Taro 3.x）
