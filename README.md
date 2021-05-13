@@ -145,4 +145,4 @@
 - [TaroCreator - 基于Taro UI的小程序可视化设计工具](https://github.com/mpfast/TaroCreator)（Taro 2.x）
 - [taro-luck-draw - 🍧🍧🍧 基于 taro 的【大转盘 / 九宫格】抽奖插件](https://github.com/LuckDraw/taro-luck-draw)（Taro 3.x）
 - [tarojs-router-next - Taro 路由库/自动生成/任意传参/同步的路由方法调用/路由中间件](https://github.com/lblblong/tarojs-router-next)（Taro 3.x）
-- [Taroify UI - 使用 Vant 相同的视觉规范的 Taro 组件库](https://taroify.gitee.io/taroify.com/introduce/)
+- [Taroify UI - 使用 Vant 相同的视觉规范的 Taro 组件库](https://taroify.gitee.io/taroify.com/introduce/)（Taro 3.x）
