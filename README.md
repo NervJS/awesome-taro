@@ -86,7 +86,7 @@
 - [与微信小程序原生融合的示例](https://github.com/NervJS/taro-sample-weapp)
 - [记日常小程序 Taro-UI + Rematch + 云开发 + tcb-router](https://github.com/zhixiaoqiang/taroCloud)
 - 💯 [nice-router-taro 脚手架项目，DVA+数据驱动页面+数据驱动表单+数据驱动list](https://github.com/kala888/nice-router-taro/tree/taro2)
-
+- [基于`Taro2` + 云开发 打造婚礼邀请函小程序](https://github.com/wforguo/wedding-app)
 ### Taro 1
 
 - Taro 端能力示例 [taro-apis-sample](https://github.com/NervJS/taro-apis-sample)
@@ -123,7 +123,8 @@
 - 💯 [基于 Taro2.0 + TypeScript + 云开发的地图同学录小程序](https://github.com/Mayandev/classmate-map)
 - [基于 Taro + Taro-ui + Typescript + redux 开发的网易云音乐小程序](https://github.com/lsqy/taro-music)
 - [基于 Taro2.0 + dva + Taro-ui + wemark 开发的 markdown 文章博客小程序](https://github.com/hirCodd/JavaNorthMiniApp.git)
-
+- [基于`Taro2` + 云开发 打造婚礼邀请函小程序](https://github.com/wforguo/wedding-app)
+- 
 ### Taro1
 
 - 💯 [首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native）](https://github.com/js-newbee/taro-yanxuan)
