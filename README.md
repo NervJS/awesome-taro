@@ -115,6 +115,7 @@
 - [微信小程序每日工作量(vue3 + TS + 云开发)](https://github.com/whyour/mini-work)
 - [TaroForm可视化表单编辑](https://github.com/ShaoGongBra/taro-form)
 - [自媒体UP主团购小程序NiceUp(React + TS + 云开发)](https://github.com/nasawz/niceup)
+- [taro-hooks 为Taro而设计的Hooks Library](https://github.com/innocces/taro-hooks)
 
 ### Taro2
 
@@ -148,3 +149,4 @@
 - [taro-luck-draw - 🍧🍧🍧 基于 taro 的【大转盘 / 九宫格】抽奖插件](https://github.com/LuckDraw/taro-luck-draw)（Taro 3.x）
 - [tarojs-router-next - Taro 路由库/自动生成/任意传参/同步的路由方法调用/路由中间件](https://github.com/lblblong/tarojs-router-next)（Taro 3.x）
 - [Taroify UI - 使用 Vant 相同的视觉规范的 Taro 组件库](https://taroify.gitee.io/taroify.com/introduce/)（Taro 3.x）
+- [taro-hooks 为Taro而设计的Hooks Library](https://github.com/innocces/taro-hooks)（Taro 3.x）
