@@ -73,6 +73,7 @@
 - [Taro 示例项目(DVA计数器 | 异步请求 | 腾讯地图): Taro+Dva+Typescript+Immer](https://github.com/didilinkin/tarojs-ts-cli)
 - 💯 [nice-router-taro 脚手架项目，DVA+数据驱动页面+数据驱动表单+数据驱动list](https://github.com/kala888/nice-router-taro)
 - [抖音一键去水印小程序 (Vue版): Taro + 微信云开发](https://github.com/terryso/super9)
+- [彗星密码本 (React版): Taro + 微信云开发](https://github.com/MuxinFeng/taro-savePassword)
 
 ### Taro 2
 
