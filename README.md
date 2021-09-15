@@ -56,6 +56,7 @@
 
 ### Taro 3.2
 
+- [Taro App 开发调试工具及使用示例](https://github.com/wuba/taro-playground)
 - [【58出品】Taro 跨平台 demo，支持 React Native，Weapp，H5](https://github.com/wuba/Taro-Mortgage-Calculator)
 - [瑞克和莫蒂wiki，支持 React Native，Weapp，H5](https://github.com/rick-and-morty-wiki/rick-and-morty-wiki)
 
