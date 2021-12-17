@@ -9,7 +9,7 @@
 - [Taro UI 项目仓库](https://github.com/NervJS/taro-ui)
 - [Taro UI 官方文档](https://taro-ui.jd.com)
 - [微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
-- [百度智能小程序官方文档](https://smartprogram.baidu.com/docs/introduction/register/index.html)
+- [百度智能小程序官方文档](https://smartprogram.baidu.com/docs/develop/tutorial/intro/)
 - [支付宝小程序官方文档](https://docs.alipay.com/mini/developer/getting-started)
 - [字节跳动小程序官方文档](https://microapp.bytedance.com/)
 - [京东小程序官方文档](https://mp.jd.com/docs/dev/)
