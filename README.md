@@ -118,6 +118,7 @@
 - [TaroForm可视化表单编辑](https://github.com/ShaoGongBra/taro-form)
 - [自媒体UP主团购小程序NiceUp(React + TS + 云开发)](https://github.com/nasawz/niceup)
 - [taro-hooks 为Taro而设计的Hooks Library](https://github.com/innocces/taro-hooks)
+- [Taro HtmlView 支持将简单的html富文本渲染为Taro组件](https://github.com/ShaoGongBra/taro-html-view)
 
 ### Taro2
 
