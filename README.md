@@ -51,6 +51,7 @@
 - [微信小程序 wx.request 对于 JSON 含 \u2028 处理异常](https://segmentfault.com/a/1190000015443614)
 - [Taro 最佳实践](https://github.com/js-newbee/taro-best-practices)
 - [封装 Taro.request（拦截器，url 配置等）](https://github.com/TigerHee/taro-request)
+- [使用 axios 完美代替 Taro.request](https://github.com/SpringHgui/axios-taro-adapter)
 
 ## 示例项目
 
