@@ -45,6 +45,7 @@
 - [Taro 多端开发的正确姿势：打造三端统一的网易严选（小程序、H5、React Native）](https://juejin.im/post/5c6a151f518825625e4ac830)
 - [Taro 与 Redux 结合使用教程](https://github.com/imageslr/taro-library#%E5%BC%95%E5%85%A5-redux)
 - [微信小程序开发之影分身术](https://juejin.im/post/5c788d28e51d4560a82be8d2)
+- [Taro 3.x 跨版本升级踩坑指南（将 Taro 3.0.14 跨版本升级到 Taro 3.5.3 项目实战）](https://juejin.cn/post/7148430666906992647)
 
 ## 开发技巧
 
