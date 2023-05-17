@@ -121,6 +121,7 @@
 - [自媒体UP主团购小程序NiceUp(React + TS + 云开发)](https://github.com/nasawz/niceup)
 - [taro-hooks 为Taro而设计的Hooks Library](https://github.com/innocces/taro-hooks)
 - [Taro HtmlView 支持将简单的html富文本渲染为Taro组件](https://github.com/ShaoGongBra/taro-html-view)
+- [让我们一起手拉手小程序, taro+vue3+ts+pinia,社区、问卷、对话](https://github.com/Everytimeyumi/hand-in-hand/tree/main)
 
 ### Taro2
 
