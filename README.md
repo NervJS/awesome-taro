@@ -158,3 +158,4 @@
 - [taro-hooks 为Taro而设计的Hooks Library](https://github.com/innocces/taro-hooks)（Taro 3.x）
 - [taro-visualization Taro 可视化库（charts、3d、Lottie等）](https://github.com/wuba/taro-visualization)（Taro 3.x）
 - [taro-svga Taro 使用svga动画库（资源体积更小、更高效、跨平台），支持weapp、h5 、tt、rn](https://github.com/wukongyang/taro-svga)（Taro 3.x）
+- [taro-code-creator Taro 条形码、二维码生成器，全平台支持](https://github.com/wukongyang/taro-code-creator)（Taro 3.x）
